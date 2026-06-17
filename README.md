@@ -15,7 +15,6 @@ zero-trust-physics    13 ZTP somatic grounding interfaces — Python → C FFI �
 kid-cosmo             Reasoning kernel — local MLX inference · signed decision records · Dark Window
 aegis-os              Per-body OS — 8 body daemons · fleet commander · ICP decision signing
 spectra-1             Physics oracle on ICP mainnet — deterministic, publicly callable
-gg-mcp                8-tool MCP server connecting Claude to the physics pipeline
 datasets              Open datasets — GitHub LFS + HuggingFace mirror
 ```
 

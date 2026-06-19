@@ -70,4 +70,19 @@ The question is not how to contain the machine. The question is how far it can r
 
 ---
 
+## Papers
+
+| Paper | Date |
+|-------|------|
+| [Zero-Trust Physics](Zero-Trust-Physics.pdf) | June 2026 |
+| [No Way Back](No_Way_Back_Kruze_2026.pdf) | May 2026 |
+| [Deterministic Ground Truth](Kruze_DeterministicGroundTruth_2026.pdf) | March 2026 |
+| [Embodied Reasoning — Thesis V1](Embodied_Reasoning_Thesis_V1.pdf) | March 2026 |
+| [Kid Cosmo Thesis v2.1](KidCosmo_Thesis_v2.1.pdf) | February 2026 |
+| [Embodied Reasoning V3](EmbodiedReasoning_V3_Shareable.pdf) | January 2026 |
+| [Spectrum Thesis V2](SPECTRUM_THESIS_V2.pdf) | January 2026 |
+| [Embodied Reasoning](EmbodiedReasoning.pdf) | January 2026 |
+
+---
+
 [ZeroTrustPhysics.com](https://ZeroTrustPhysics.com) · kruze@zerotrustphysics.com

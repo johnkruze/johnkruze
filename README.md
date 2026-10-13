@@ -24,6 +24,7 @@ What will it find? Models of real things, from a human fingertip to the Solar Sy
 |---|---|
 | **[zero-trust-physics](https://github.com/johnkruze/zero-trust-physics)** | Three small programs that confirm a cryptographic proof with no engine, and examples of asking. |
 | **[zero-trust-physics-engine](https://github.com/johnkruze/zero-trust-physics-engine)** | The engine's own source. Build it and get the same proofs the address gives. |
+| **[zero-trust-physics-pass-marks](https://github.com/johnkruze/zero-trust-physics-pass-marks)** | Each model's passing grade, in a commit GitHub signs and dates. A new model's grade goes here before it is scored. |
 | **[zerotrustphysics.com](https://zerotrustphysics.com)** | The story, and a page for each real thing: [zerotrustphysics.com/things](https://zerotrustphysics.com/things/). |
 | **[The paper](https://doi.org/10.5281/zenodo.23305697)** | *Zero-Trust Physics: a verifier for the physical answers of Super Intelligence.* Every number lives here. |
 

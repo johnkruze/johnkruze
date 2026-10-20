@@ -22,7 +22,7 @@ What will it find? Models of real things, from a human fingertip to the Solar Sy
 
 | | |
 |---|---|
-| **[zero-trust-physics](https://github.com/johnkruze/zero-trust-physics)** | Four programs that check a proof with no engine, and examples of asking. The seals of rule v2 (SHA-384) with Python's standard library alone; the engine's ML-DSA-87 signature with `verify_signature.py` and `dilithium-py` 1.5.1. |
+| **[zero-trust-physics](https://github.com/johnkruze/zero-trust-physics)** | Four programs that verify a proof with no engine, and examples of asking. The seals of rule v2 (SHA-384) with Python's standard library alone; the engine's ML-DSA-87 signature with `verify_signature.py` and `dilithium-py` 1.5.1. |
 | **[zero-trust-physics-engine](https://github.com/johnkruze/zero-trust-physics-engine)** | The engine's own source, Apache-2.0, tagged `v0.15.0`: the source the open address is built from. Build it and get the same proofs the address gives. |
 | **[zero-trust-physics-pass-marks](https://github.com/johnkruze/zero-trust-physics-pass-marks)** | Each model's target, in a commit GitHub signs and dates. Forecasts are posted here before their data exist. |
 | **[MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.zerotrustphysics)** | `com.zerotrustphysics/verifier`, version 0.15.0. |

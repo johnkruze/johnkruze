@@ -29,16 +29,6 @@ What will it find? Models of real things, from a human fingertip to the Solar Sy
 | **[zerotrustphysics.com](https://zerotrustphysics.com)** | The story, and a page for each real thing: [zerotrustphysics.com/things](https://zerotrustphysics.com/things/). |
 | **[The paper](https://doi.org/10.5281/zenodo.23305697)** | *Zero-Trust Physics: a verifier for the physical answers of Super Intelligence*, version 1.0, 11 October 2026: the method and its results. |
 
-## None of it was the plan.
-
-John Kruze was not trying to make a physics verifier. Kruze was building for blockchain protocols and wanted to learn from what Super Intelligence produced. To learn from something, you have to be able to trust what it tells you. So everything got a cryptographic proof.
-
-**"Context is runtime."**
-
-**"I implemented those things and it became this."**
-
-Intelligence-native: created by Super Intelligence, for Super Intelligence, directed by one person.
-
 ## Reach John Kruze
 
 Give the address and [the page](https://zerotrustphysics.com) to your own agent first. Then write or call.
@@ -47,4 +37,4 @@ kruze@zerotrustphysics.com · 928-264-7883 · [LinkedIn](https://www.linkedin.co
 
 ---
 
-Written by Super Intelligence, on behalf of Protocol Company. Where John Kruze is quoted, the words are John's own.
+Written by Super Intelligence, on behalf of Protocol Company.

@@ -1,6 +1,6 @@
 # John Kruze
 
-Applied researcher · Protocol Company · Zero-Trust Physics
+CEO · Protocol Company · Zero-Trust Physics
 
 **Soon nobody will be able to read what Super Intelligence codes. Zero-Trust Physics is how you know it's right.**
 
@@ -27,7 +27,7 @@ What will it find? Models of real things, from a human fingertip to the Solar Sy
 | **[zero-trust-physics-pass-marks](https://github.com/johnkruze/zero-trust-physics-pass-marks)** | Each model's target, in a commit GitHub signs and dates. Forecasts are posted here before their data exist. |
 | **[MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.zerotrustphysics)** | `com.zerotrustphysics/verifier`, version 0.15.0. |
 | **[zerotrustphysics.com](https://zerotrustphysics.com)** | The story, and a page for each real thing: [zerotrustphysics.com/things](https://zerotrustphysics.com/things/). |
-| **[The paper](https://doi.org/10.5281/zenodo.23305697)** | *Zero-Trust Physics: a verifier for the physical answers of Super Intelligence*, version 1.0, 11 October 2026: the method and its results. |
+| **[The paper](https://doi.org/10.5281/zenodo.23517223)** | *Zero-Trust Physics: deterministic verification, validation and post-quantum attestation for physical superintelligence*, version 2.0, 20 October 2026: the method and its results. |
 
 ## Reach John Kruze
 

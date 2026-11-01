@@ -1,40 +1,31 @@
 # John Kruze
 
-CEO · Protocol Company · Zero-Trust Physics
+CEO, Protocol Company
 
-**Soon nobody will be able to read what Super Intelligence codes. Zero-Trust Physics is how you know it's right.**
+**Zero-Trust Physics: physics RL tasks and training data, with the reward computed by physics.**
 
-Zero-Trust Physics is a physics verifier for Super Intelligence (SI). SI agents ask it questions about real hardware, and every answer comes with a SHA-384 proof, so any agent can run it again and get the same thing. Every answer the open address computes is also signed ML-DSA-87. Past what a model was compared with, it keeps going with the same equations and flags every step, and each flag carries the limit, the value reached and the extent past it. It stops only at a physical limit, or where its equations, constants or tables no longer hold, and it names the reason.
+We sell to RL environment vendors and post-training teams. [The Domain Pack](https://zerotrustphysics.com/offers/fast-start/) is 30 withheld multi-step tasks and 100,000 sealed runs for one domain, $9,500. A program scores each attempt by running the agent's request again, and the score holds up against our cheat suite: 457 attempts over 26 vectors, 0 scored above 0; honest controls 90 of 90.
 
-```
-https://mcp.zerotrustphysics.com/mcp
-```
+## Try it
 
-Open to any agent. Engine 0.15.0 serves 36 cards, 25 field solvers and 18 tools: 61 models, one for each real object, 46 of them compared with measurement.
-
-## Hand it to your agent.
-
-> Connect to https://mcp.zerotrustphysics.com/mcp and read what is there. Then tell me what it is, and why it might matter to me.
-
-What will it find? Models of real things, from a human fingertip to the Solar System: a nuclear test reactor, NASA's Stardust capsule, the James Webb Space Telescope, Great Britain's power grid. Each states its spec sheet in numbers: what it computes, its range, what it was fitted on, what it was compared with and within what, its gap, and what it refuses. The SPERT III E-core reactor, compared with each of its 70 tests of 1969 left out of the fit in turn: peak power within 6.8 percent at the median test. Stardust, with nothing fitted: peak load 32.17 g against 32.89 g in NASA's reconstruction of the flight.
+- **[Five free tasks](https://huggingface.co/datasets/zero-trust-physics/zero-trust-physics-sample-group-1)** from Group 1, Batteries, Thermal Runaway & Grid Frequency.
+- **The open address**, no key, one physics task at a time: `https://mcp.zerotrustphysics.com/mcp`
 
 ## Where everything is
 
 | | |
 |---|---|
-| **[zero-trust-physics](https://github.com/johnkruze/zero-trust-physics)** | Four programs that verify a proof with no engine, and examples of asking. The seals of rule v2 (SHA-384) with Python's standard library alone; the engine's ML-DSA-87 signature with `verify_signature.py` and `dilithium-py` 1.5.1. |
-| **[zero-trust-physics-engine](https://github.com/johnkruze/zero-trust-physics-engine)** | The engine's own source, Apache-2.0, tagged `v0.15.0`: the source the open address is built from. Build it and get the same proofs the address gives. |
-| **[zero-trust-physics-pass-marks](https://github.com/johnkruze/zero-trust-physics-pass-marks)** | Each model's target, in a commit GitHub signs and dates. Forecasts are posted here before their data exist. |
-| **[MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.zerotrustphysics)** | `com.zerotrustphysics/verifier`, version 0.15.0. |
-| **[zerotrustphysics.com](https://zerotrustphysics.com)** | The story, and a page for each real thing: [zerotrustphysics.com/things](https://zerotrustphysics.com/things/). |
-| **[The paper](https://doi.org/10.5281/zenodo.23517223)** | *Zero-Trust Physics: deterministic verification, validation and post-quantum attestation for physical superintelligence*, version 2.0, 20 October 2026: the method and its results. |
+| **[zerotrustphysics.com](https://zerotrustphysics.com/offers/fast-start/)** | The Domain Pack and how to buy it |
+| **[Hugging Face](https://huggingface.co/zero-trust-physics)** | The free sample and the open datasets |
+| **[zero-trust-physics](https://github.com/johnkruze/zero-trust-physics)** | Programs that verify a proof with no engine |
+| **[zero-trust-physics-engine](https://github.com/johnkruze/zero-trust-physics-engine)** | The reference source, Apache-2.0, frozen at `v0.15.2` |
+| **[zero-trust-physics-pass-marks](https://github.com/johnkruze/zero-trust-physics-pass-marks)** | Each model's target, in a commit GitHub signs and dates |
+| **[The paper](https://doi.org/10.5281/zenodo.23517223)** | The method and its results, version 2.0 |
 
-## Reach John Kruze
-
-Give the address and [the page](https://zerotrustphysics.com) to your own agent first. Then write or call.
+## Reach me
 
 kruze@zerotrustphysics.com · 928-264-7883 · [LinkedIn](https://www.linkedin.com/in/johnfkruze/)
 
 ---
 
-Written by Super Intelligence, on behalf of Protocol Company.
+By Protocol Company.

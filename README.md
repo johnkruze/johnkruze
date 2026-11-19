@@ -21,7 +21,7 @@ Protocol Company makes AI-native physics environments: real physical systems, mo
 | **[zerotrustphysics.com](https://zerotrustphysics.com/)** | The company and its [environments](https://zerotrustphysics.com/offers/fast-start/) |
 | **[Systems](https://zerotrustphysics.com/systems/)** | The model pages: each real system, compared with its measurements |
 | **[huggingface.co/zero-trust-physics](https://huggingface.co/zero-trust-physics)** | 5 free sample packs, Environments benchmark, and sealed validation datasets |
-| **[zero-trust-physics-engine](https://github.com/johnkruze/zero-trust-physics-engine)** | 5-crate Rust physics & proof reference source (Apache-2.0, `v0.15.2`) |
+| **[zero-trust-physics-engine](https://github.com/johnkruze/zero-trust-physics-engine)** | 5-crate Rust physics & proof reference source (Apache-2.0, `v0.15.3`, archived) |
 | **[zero-trust-physics](https://github.com/johnkruze/zero-trust-physics)** | Standalone Python SHA-384 & ML-DSA-87 proof verification programs |
 | **[zero-trust-physics-pass-marks](https://github.com/johnkruze/zero-trust-physics-pass-marks)** | Validation targets, out-of-sample results, and runnable replays |
 | **[Paper (v2.0)](https://doi.org/10.5281/zenodo.23517223)** | Method, conservation ledgers, experimental validation, and post-quantum attestation |
